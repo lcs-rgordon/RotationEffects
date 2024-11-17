@@ -11,7 +11,7 @@ import SwiftUI
 struct RotationEffectsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TwoDimensionalRotation()
         }
     }
 }
